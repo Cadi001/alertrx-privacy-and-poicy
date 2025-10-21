@@ -1,0 +1,230 @@
+# Privacy Policy for AlertRx: Every Dose Matters
+
+**Effective Date:** October 21, 2025
+**Last Updated:** October 21, 2025
+
+---
+
+## 1. Introduction
+
+This Privacy Policy (the “Policy”) explains how **AlertRx: Every Dose Matters**, developed by **Aldwin Nunag** (hereinafter referred to as “we”, “us”, or “our”), collects, uses, discloses, and protects personal and sensitive information of its users, including **patients**, **licensed healthcare professionals (doctors and clinics)**, and **first responders**, who use the AlertRx mobile application (the “App”).
+
+We are committed to complying with the **Data Privacy Act of 2012 (Republic Act No. 10173)**, the **Health Insurance Portability and Accountability Act (HIPAA)**, and other applicable global data protection laws.
+
+By using AlertRx, you consent to the collection and use of your personal data in accordance with this Policy.
+
+---
+
+## 2. Scope and Application
+
+This Policy applies to all users who install, access, or use the AlertRx mobile application and its integrated services. It covers all data collected through:
+
+* The AlertRx Android mobile app
+* Firebase cloud storage and authentication systems
+* AI-assisted drug interaction checks
+* Google Maps and location-based features
+* AdMob and analytics integrations
+
+This Policy does **not** apply to administrative users or internal system management modules.
+
+---
+
+## 3. Information We Collect
+
+### 3.1 Personal and Contact Information
+
+We collect information you provide when registering or updating your profile, including:
+
+* Full name
+* Contact number
+* Email address
+* Role (Patient, Doctor, Pharmacist, First Responder)
+* Clinic or healthcare affiliation (for professionals)
+
+### 3.2 Health and Medical Information
+
+For the purpose of providing healthcare services, we may collect and process:
+
+* Prescription details (drug name, dosage, frequency, prescribing doctor)
+* Medication adherence data
+* Drug interaction history and AI-generated insights
+* Health records voluntarily submitted by the user
+
+### 3.3 Device and Location Information
+
+We collect the following automatically:
+
+* Device identifiers (Android ID, model, OS version)
+* IP address and network information
+* Precise and approximate location data (for clinic maps, navigation, and emergency alerts)
+
+### 3.4 Usage and Analytics Data
+
+Through Firebase Analytics and AdMob, we may collect anonymized usage metrics such as:
+
+* Session durations and crash reports
+* Click events and screen interactions
+* Ad engagement data
+
+### 3.5 Communication Data
+
+We may collect:
+
+* Push notification preferences
+* Feedback or support messages sent to our team
+
+---
+
+## 4. How We Use Your Information
+
+We process collected data to:
+
+* Provide core app functionality including prescription management, reminders, and interaction checks
+* Facilitate communication between patients and authorized healthcare professionals
+* Display nearby clinics, pharmacies, or first responders using location data
+* Deliver relevant advertisements through **Google AdMob**
+* Conduct analytics and performance monitoring
+* Send reminders, alerts, and important service updates
+* Ensure security, fraud prevention, and regulatory compliance
+
+All personal and medical data are processed using the principle of **legitimate purpose**, **transparency**, and **proportionality** as required under Philippine law.
+
+---
+
+## 5. Data Sharing and Disclosure
+
+We do **not** sell personal or medical information. We may share information only in the following circumstances:
+
+### 5.1 With Healthcare Providers and First Responders
+
+* For legitimate medical purposes such as verifying prescriptions, responding to emergencies, or providing urgent care.
+
+### 5.2 With Service Providers
+
+We may share limited data with trusted third parties who help us operate the App:
+
+* **Firebase** for authentication, database, and push notifications
+* **Google Maps** for location-based features
+* **Google AdMob** for advertisements
+* **AI model integrations** for drug interaction and medication adherence checks
+
+All service providers are contractually bound to comply with data protection laws.
+
+### 5.3 For Legal and Regulatory Compliance
+
+We may disclose data if required by law, subpoena, or governmental request, or when necessary to protect user safety or public health.
+
+### 5.4 Aggregated and De-Identified Data
+
+We may use aggregated, anonymized data for research, analytics, and performance improvement. Such data cannot be used to identify individuals.
+
+---
+
+## 6. Data Retention and Deletion
+
+* Personal and medical data are retained for as long as your account is active or as necessary to provide the App’s services.
+* Users may request **account deletion** at any time through in-app settings or via email at **[alertrxcadi@gmail.com](mailto:alertrxcadi@gmail.com)**.
+* Upon account deletion, all personally identifiable data are permanently erased from active servers, except where retention is required by law.
+
+---
+
+## 7. Data Security Measures
+
+We implement multiple layers of protection, including:
+
+* End-to-end encryption for data transmission (HTTPS/TLS)
+* Secure data storage via Firebase with access control
+* Role-based access permissions (Patient, Doctor, Pharmacist, First Responder)
+* AI-based anomaly detection for unauthorized access
+* Regular vulnerability assessments and security audits
+
+While we take all reasonable measures to protect data, no system is completely immune to unauthorized access. In the event of a data breach, affected users and authorities will be notified in accordance with applicable laws.
+
+---
+
+## 8. User Rights and Choices
+
+Under the Data Privacy Act and other relevant laws, users have the right to:
+
+* Access and obtain a copy of their personal data
+* Correct or update inaccurate information
+* Withdraw consent at any time
+* Request deletion of their account and associated data
+* Lodge a complaint with the **National Privacy Commission (NPC)** of the Philippines
+
+Requests may be submitted to **[alertrxcadi@gmail.com](mailto:alertrxcadi@gmail.com)**.
+
+---
+
+## 9. Children’s Privacy
+
+AlertRx is **not intended for children under 13 years of age**. If we discover that we have collected data from a child without parental consent, such data will be immediately deleted.
+
+---
+
+## 10. International Data Transfers
+
+Because AlertRx operates globally, user data may be transferred and stored in locations outside the Philippines. We ensure that all such transfers comply with applicable data protection standards, including the use of contractual safeguards where required.
+
+---
+
+## 11. Advertisements and Analytics
+
+AlertRx uses **Google AdMob** to display general advertisements. These ads are non-personalized unless the user consents to personalized ads as required by Google Play policy.
+
+We may also use **Firebase Analytics** to understand user behavior in anonymized form to improve app performance and experience.
+
+Users can manage ad preferences through their Google account settings.
+
+---
+
+## 12. AI-Powered Features
+
+AlertRx employs AI technology to:
+
+* Analyze potential drug interactions
+* Generate medication adherence reminders
+* Support decision-making for prescription verification
+
+AI systems process data only for their intended medical purpose and do not independently store or share identifiable information.
+
+---
+
+## 13. Consent
+
+By creating an account or using the App, you explicitly consent to:
+
+* The collection, use, and processing of your personal and health data
+* The use of cookies, analytics, and AdMob advertisements
+* The sharing of limited information with verified healthcare providers and first responders
+
+Users are presented with a **consent screen** upon registration and may withdraw consent anytime through the app settings.
+
+---
+
+## 14. Policy Updates
+
+We may update this Privacy Policy from time to time to reflect legal, technical, or operational changes. Users will be notified through in-app alerts or email of any material modifications.
+
+---
+
+## 15. Contact Information
+
+For inquiries, concerns, or requests related to this Policy, please contact:
+
+**Data Protection Officer (DPO)**
+**Name:** Aldwin Nunag
+**Email:** [alertrxcadi@gmail.com](mailto:alertrxcadi@gmail.com)
+**Phone:** 09312085866
+
+---
+
+## 16. Acknowledgment
+
+By using **AlertRx: Every Dose Matters**, you acknowledge that you have read, understood, and agreed to the terms of this Privacy Policy.
+
+---
+
+**Developed by:** Aldwin Nunag
+**App Name:** AlertRx: Every Dose Matters
+**Contact:** [alertrxcadi@gmail.com](mailto:alertrxcadi@gmail.com) | 09312085866
